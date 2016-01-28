@@ -1,15 +1,18 @@
 
-# TALK NAME
+# Collecting Metrics with Graphite
 
-This presentation covers TALK TOPIC
+This presentation covers installing the Graphite metrics platform,
+configuring Carbon, installing and using Grafana, and some techniques
+for scaling Carbon and Whisper.
 
 ## Covered topics
 
-TBA
+* Graphite <http://graphite.readthedocs.org/>
+* Grafana <http://grafana.org/>
 
 # COPYRIGHT AND LICENSE
 
-Copyright 2015 Doug Bell <preaction@cpan.org>
+Copyright 2016 Doug Bell <preaction@cpan.org>
 
 The presentation content is licensed under CC-BY-SA 4.0.
 

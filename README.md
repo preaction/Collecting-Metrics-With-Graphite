@@ -10,6 +10,11 @@ for scaling Carbon and Whisper.
 * Graphite <http://graphite.readthedocs.org/>
 * Grafana <http://grafana.org/>
 
+# Other Resources
+
+* <http://files.meetup.com/10485232/graphite.pdf>
+* <http://allegro.tech/2015/09/scaling-graphite.html>
+
 # COPYRIGHT AND LICENSE
 
 Copyright 2016 Doug Bell <preaction@cpan.org>
